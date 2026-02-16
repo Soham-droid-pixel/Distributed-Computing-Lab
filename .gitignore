@@ -1,0 +1,29 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.o
+*.obj
+
+# Compiled Executables (Windows)
+*.exe
+*.pdb
+*.ilk
+
+# Compiled Executables (Linux/Mac)
+*.out
+*.app
+
+# Specific executables from our lab
+single_server
+single_client
+group_server
+group_client
+server
+client
+
+# IDE/Editor configurations (Optional but recommended)
+.vscode/
+.idea/
+*.swp
+*.DS_Store
